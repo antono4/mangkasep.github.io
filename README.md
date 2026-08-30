@@ -11,7 +11,7 @@
   <a href="https://github.com/antono4/mangkasep.github.io"><img alt="GitHub repo" src="https://img.shields.io/badge/GitHub-antono4/mangkasep.github.io-blue?logo=github"></a>
   <a href="https://antono4.github.io/mangkasep.github.io/"><img alt="Live Demo" src="https://img.shields.io/badge/Live%20Demo-Online-success?logo=githubpages"></a>
   <img alt="Files" src="https://img.shields.io/badge/Files-8-informational">
-  <img alt="Updated" src="https://img.shields.io/badge/Updated-2026-08-30 12:57:17 WIB-lightgrey">
+  <img alt="Updated" src="https://img.shields.io/badge/Updated-2026-08-30 14:49:13 WIB-lightgrey">
 </p>
 
 ---
@@ -61,4 +61,4 @@ Lihat berkas [`LICENSE`](./LICENSE) untuk informasi lisensi.
 
 ---
 
-<sub>README ini di-generate otomatis pada **2026-08-30 12:57:17 WIB** oleh GitHub Actions .</sub>
+<sub>README ini di-generate otomatis pada **2026-08-30 14:49:13 WIB** oleh GitHub Actions .</sub>
