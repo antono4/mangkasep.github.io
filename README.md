@@ -1,1 +1,26 @@
-Last updated: 2026-10-30 16:03:31 WIB
+# mangkasep.github.io
+
+
+
+## 📋 Overview
+
+This repository contains **9 files** and is built with the following technologies:
+
+HTML
+
+## 🚀 Quick Start
+
+## ✨ Features
+
+- 📝 Auto-generated documentation
+
+## 🛠️ Technologies
+
+HTML
+
+## 📄 License
+
+MIT License
+
+---
+*Last updated: 2026-10-30 16:04:53 WIB*
